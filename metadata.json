@@ -1,0 +1,6 @@
+{
+  "name": "Fonada Studio",
+  "description": "Redesigned enterprise homepage for Fonada - Connect, Automate, Scale. Built with React and Tailwind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
